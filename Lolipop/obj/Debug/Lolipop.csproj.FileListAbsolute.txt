@@ -1,0 +1,9 @@
+D:\projects\.net\Lolipop\Lolipop\Lolipop\bin\Debug\Lolipop.dll
+D:\projects\.net\Lolipop\Lolipop\Lolipop\bin\Debug\Lolipop.pdb
+D:\projects\.net\Lolipop\Lolipop\Lolipop\bin\Debug\System.Data.SQLite.DLL
+D:\projects\.net\Lolipop\Lolipop\Lolipop\bin\Debug\System.Data.SQLite.xml
+D:\projects\.net\Lolipop\Lolipop\Lolipop\obj\Debug\Lolipop.csprojAssemblyReference.cache
+D:\projects\.net\Lolipop\Lolipop\Lolipop\obj\Debug\Lolipop.csproj.CoreCompileInputs.cache
+D:\projects\.net\Lolipop\Lolipop\Lolipop\obj\Debug\Lolipop.csproj.CopyComplete
+D:\projects\.net\Lolipop\Lolipop\Lolipop\obj\Debug\Lolipop.dll
+D:\projects\.net\Lolipop\Lolipop\Lolipop\obj\Debug\Lolipop.pdb

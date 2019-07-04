@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lolipop", "Lolipop\Lolipop.csproj", "{944885DC-2764-4B22-8B42-CC62FF44C274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LolipopTest", "LolipopTest\LolipopTest.csproj", "{729F5C4E-21FF-4508-AE2D-DF645C22C608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944885DC-2764-4B22-8B42-CC62FF44C274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944885DC-2764-4B22-8B42-CC62FF44C274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944885DC-2764-4B22-8B42-CC62FF44C274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944885DC-2764-4B22-8B42-CC62FF44C274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729F5C4E-21FF-4508-AE2D-DF645C22C608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729F5C4E-21FF-4508-AE2D-DF645C22C608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729F5C4E-21FF-4508-AE2D-DF645C22C608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729F5C4E-21FF-4508-AE2D-DF645C22C608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E41A0742-B926-4E24-A313-194BA77F77E0}
+	EndGlobalSection
+EndGlobal
